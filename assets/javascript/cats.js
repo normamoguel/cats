@@ -1,5 +1,6 @@
 const url = `https://api.thecatapi.com/v1/breeds`;
-const api_key = "live_OCqtiaTtguXAaRXdDOtIe3MnPlM8pcnHvFWQRlxNRasY0EARrJ2Z2pYVW3VLIJta"
+// Here put your API key
+const api_key = "";
 
 // api_key
 function  getBreeds(callback){
